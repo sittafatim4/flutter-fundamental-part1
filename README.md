@@ -18,6 +18,7 @@ Proyek ini merupakan aplikasi Flutter sederhana untuk mempelajari dasar-dasar Fl
 <p align="center">
   <img src="assets/images/2.png" alt="USB Debugging" width="250"/>
   <img src="assets/images/3.png" alt="WiFi Debugging" width="250"/>
+  <img src="assets/images/ss.png" alt="WiFi Debugging" width="250"/>
 </p>
 
 ### 3️⃣ Membuat Repository GitHub dan Laporan Praktikum
