@@ -1,5 +1,7 @@
-#### Nama:
-#### NIM :
+#### Nama  : Fatima Sitta Maulidia
+#### NIM   : 2341760167
+#### KELAS : SIB 3F
+#### ABSEN : 11
 
 # 🚀 Flutter Basic Widgets Project
 
